@@ -1,1 +1,1 @@
-Read Android.mk
+- Read Android.mk
